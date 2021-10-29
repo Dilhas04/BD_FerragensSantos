@@ -1,0 +1,1 @@
+select Nro_CLI, Nm_CLI, CIDADE_MATRIZ from Tb_CLIENTE where CIDADE_MATRIZ = 'Atlanta' and Nro_CLI > 1500

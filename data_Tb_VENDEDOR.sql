@@ -1,0 +1,7 @@
+INSERT INTO Tb_VENDEDOR (NRO_VEND, NM_VEND, COMISSAO, ANO_CONTRATAÇÃO, NRO_ESCR)
+VALUES
+('137','Baker','10','1995','1284'),
+('186','Adams','15','2001','1253'),
+('204','Dickens','10','1998','1209'),
+('361','Carlyle','20','2001','1227')
+
